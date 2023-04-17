@@ -1,5 +1,5 @@
 # HarmfulContentDetectionRealTimeRepo
-HarmfulContentDetection application - Application that performs real time malicious content detection on videos and images with ML.NET, ONNX.
+HarmfulContentDetection application - Application that performs real time harmful content detection on videos and images with ML.NET, ONNX.
 
 ## Preparation
 
@@ -8,7 +8,7 @@ Run the following commands in order
 git clone https://github.com/gulsahtan/HarmfulContentDetectionRealTimeRepo
 
 ```
-## Wep URL
+## Web URL
 
 - Demo application is available at https://harmfulcontentdetection.com/
 
