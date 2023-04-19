@@ -1,5 +1,5 @@
 # HarmfulContentDetectionRealTimeRepo
-HarmfulContentDetection application - Application that performs real time harmful content detection on videos and images with ML.NET, ONNX.
+HarmfulContentDetection application, is an application that detects harmful content in real-time in videos, webcams, and images using ONNX, ML.NET. This application includes a method developed to eliminate the slowdown present in classical object detection. It can be used by running the HarmfulContentDetectionRealTime.exe file downloaded from the "Real-Time Object Detection (with Pipeline)" application in the Video Censorship menu.
 
 ## Preparation
 
